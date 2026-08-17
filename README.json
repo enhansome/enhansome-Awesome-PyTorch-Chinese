@@ -14,7 +14,7 @@
             "last_commit": "2023-08-15T10:17:50Z",
             "owner": "yunjey",
             "repo": "pytorch-tutorial",
-            "stars": 32451
+            "stars": 32459
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2024-07-25T07:17:26Z",
             "owner": "zergtant",
             "repo": "pytorch-handbook",
-            "stars": 21666
+            "stars": 21668
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-07-28T08:44:04Z",
             "owner": "fendouai",
             "repo": "PyTorchDocs",
-            "stars": 2948
+            "stars": 2950
           }
         },
         {
@@ -76,7 +76,7 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32240
+            "stars": 32238
           }
         },
         {
@@ -163,10 +163,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T11:38:04Z",
+            "last_commit": "2026-08-16T11:38:26Z",
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17867
+            "stars": 17868
           }
         },
         {
@@ -334,7 +334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T03:15:47.806Z",
+    "last_updated": "2026-08-17T03:15:50.209Z",
     "original_repository": "INTERMT/Awesome-PyTorch-Chinese",
     "original_repository_sha": "7cfc7ca7728c689fb401292ec8b442548283368d",
     "enhanced_repository": "enhansome/enhansome-Awesome-PyTorch-Chinese",
