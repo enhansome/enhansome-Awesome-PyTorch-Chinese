@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84533158,
             "language": "Python",
             "last_commit": "2023-08-15T10:17:50Z",
             "owner": "yunjey",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 160124067,
             "language": "Jupyter Notebook",
             "last_commit": "2024-07-25T07:17:26Z",
             "owner": "zergtant",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 183181254,
             "language": "Python",
             "last_commit": "2026-07-28T08:44:04Z",
             "owner": "fendouai",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 162254185,
             "language": null,
             "last_commit": "2019-04-20T12:59:07Z",
             "owner": "fendouai",
@@ -63,7 +67,7 @@
       "title": "PyTorch学习教程、手册"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 101782647,
             "language": "Python",
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
@@ -86,6 +91,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82841862,
             "language": "Python",
             "last_commit": "2025-10-14T17:32:07Z",
             "owner": "OpenNMT",
@@ -100,6 +106,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 76210069,
             "language": "Python",
             "last_commit": "2025-09-10T21:39:02Z",
             "owner": "pytorch",
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 95684188,
             "language": "Python",
             "last_commit": "2025-09-17T19:46:43Z",
             "owner": "IBM",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 172325096,
             "language": "Python",
             "last_commit": "2021-05-06T19:38:36Z",
             "owner": "kamalkraj",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 126586968,
             "language": "Python",
             "last_commit": "2018-07-04T08:13:28Z",
             "owner": "outcastofmusic",
@@ -153,7 +163,7 @@
       "title": "NLP&PyTorch实战"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -162,8 +172,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73328905,
             "language": "Python",
-            "last_commit": "2026-08-18T23:16:12Z",
+            "last_commit": "2026-08-19T11:40:42Z",
             "owner": "pytorch",
             "repo": "vision",
             "stars": 17872
@@ -176,6 +187,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103698763,
             "language": "Python",
             "last_commit": "2026-04-06T22:19:17Z",
             "owner": "1adrianb",
@@ -190,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153722564,
             "language": "Shell",
             "last_commit": "2020-11-19T05:40:57Z",
             "owner": "donnyyou",
@@ -204,6 +217,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 122027056,
             "language": "Python",
             "last_commit": "2024-08-16T20:46:50Z",
             "owner": "creafz",
@@ -218,6 +232,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91192665,
             "language": "Python",
             "last_commit": "2020-02-20T16:32:38Z",
             "owner": "thnkim",
@@ -232,6 +247,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87079368,
             "language": "Python",
             "last_commit": "2017-04-03T14:13:32Z",
             "owner": "tymokvo",
@@ -243,7 +259,7 @@
       "title": "CV&PyTorch实战"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -252,6 +268,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86152173,
             "language": "Python",
             "last_commit": "2020-02-22T23:17:37Z",
             "owner": "edouardoyallon",
@@ -266,6 +283,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83875466,
             "language": "Python",
             "last_commit": "2017-07-07T08:49:15Z",
             "owner": "kefirski",
@@ -280,6 +298,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84811479,
             "language": "Python",
             "last_commit": "2017-03-13T13:46:31Z",
             "owner": "onlytailei",
@@ -294,6 +313,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83878532,
             "language": "Python",
             "last_commit": "2017-03-27T17:07:01Z",
             "owner": "kefirski",
@@ -308,6 +328,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83874472,
             "language": "Python",
             "last_commit": "2017-03-27T17:03:17Z",
             "owner": "kefirski",
@@ -322,6 +343,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85814424,
             "language": "Python",
             "last_commit": "2017-03-23T04:46:45Z",
             "owner": "neuralix",
@@ -334,8 +356,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T03:14:03.193Z",
+    "last_updated": "2026-08-19T12:10:04.103Z",
     "original_repository": "INTERMT/Awesome-PyTorch-Chinese",
+    "original_repository_id": 184381881,
     "original_repository_sha": "7cfc7ca7728c689fb401292ec8b442548283368d",
     "enhanced_repository": "enhansome/enhansome-Awesome-PyTorch-Chinese",
     "enhanced_repository_description": null,
