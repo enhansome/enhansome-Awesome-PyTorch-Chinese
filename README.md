@@ -11,8 +11,8 @@
 
 ## PyTorch学习教程、手册
 
-* [比较偏算法实战的PyTorch代码教程](https://github.com/yunjey/pytorch-tutorial) ⭐ 32,459 | 🐛 89 | 🌐 Python | 📅 2023-08-15：在github上有很高的star。建议大家在阅读本文档之前，先学习上述两个PyTorch基础教程。
-* [开源书籍](https://github.com/zergtant/pytorch-handbook) ⭐ 21,672 | 🐛 60 | 🌐 Jupyter Notebook | 📅 2024-07-25：这是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门。但本文档不是内容不是很全，还在持续更新中。
+* [比较偏算法实战的PyTorch代码教程](https://github.com/yunjey/pytorch-tutorial) ⭐ 32,460 | 🐛 89 | 🌐 Python | 📅 2023-08-15：在github上有很高的star。建议大家在阅读本文档之前，先学习上述两个PyTorch基础教程。
+* [开源书籍](https://github.com/zergtant/pytorch-handbook) ⭐ 21,675 | 🐛 60 | 🌐 Jupyter Notebook | 📅 2024-07-25：这是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门。但本文档不是内容不是很全，还在持续更新中。
 * [PyTorch中文官方文档](https://github.com/fendouai/PyTorchDocs) ⭐ 2,951 | 🐛 5 | 🌐 Python | 📅 2026-07-28：阅读上述英文文档比较困难的同学也不要紧，我们为大家准备了比较官方的PyTorch中文文档，文档非常详细的介绍了各个函数，可作为一份PyTorch的速查宝典。
 * [简单易上手的PyTorch中文文档](https://github.com/fendouai/pytorch1.0-cn) ⭐ 370 | 🐛 1 | 📅 2019-04-20：非常适合新手学习。该文档从介绍什么是PyTorch开始，到神经网络、PyTorch的安装，再到图像分类器、数据并行处理，非常详细的介绍了PyTorch的知识体系，适合新手的学习入门。该文档的官网：<http://pytorchchina.com> 。
 * [PyTorch英文版官方手册](https://pytorch.org/tutorials/)：对于英文比较好的同学，非常推荐该PyTorch官方文档，一步步带你从入门到精通。该文档详细的介绍了从基础知识到如何使用PyTorch构建深层神经网络，以及PyTorch语法和一些高质量的案例。
@@ -28,7 +28,7 @@
 ## NLP\&PyTorch实战
 
 * [Fairseq](https://github.com/pytorch/fairseq) ⚠️ Archived：Fairseq是一个序列建模工具包，允许研究人员和开发人员为翻译、总结、语言建模和其他文本生成任务训练自定义模型，它还提供了各种Seq2seq模型的参考实现。该github存储库包含有关入门、训练新模型、使用新模型和任务扩展Fairseq的说明，对该模型感兴趣的小伙伴可以点击上方链接学习。
-* [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py) ⭐ 7,012 | 🐛 23 | 🌐 Python | 📅 2025-10-14：这是OpenNMT的一个PyTorch实现，一个开放源码的神经网络机器翻译系统。它的设计是为了便于研究，尝试新的想法，以及在翻译，总结，图像到文本，形态学等许多领域中尝试新的想法。一些公司已经证明该代码可以用于实际的工业项目中，更多关于这个github的详细信息请参阅以上链接。
+* [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py) ⭐ 7,011 | 🐛 23 | 🌐 Python | 📅 2025-10-14：这是OpenNMT的一个PyTorch实现，一个开放源码的神经网络机器翻译系统。它的设计是为了便于研究，尝试新的想法，以及在翻译，总结，图像到文本，形态学等许多领域中尝试新的想法。一些公司已经证明该代码可以用于实际的工业项目中，更多关于这个github的详细信息请参阅以上链接。
 * [Pytorch text](https://github.com/pytorch/text) ⚠️ Archived：Torchtext是一个非常好用的库，可以帮助我们很好的解决文本的预处理问题。此github存储库包含两部分：
   * torchText.data：文本的通用数据加载器、抽象和迭代器（包括词汇和词向量）
   * torchText.datasets：通用NLP数据集的预训练加载程序
@@ -76,4 +76,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._

@@ -15,7 +15,7 @@
             "last_commit": "2023-08-15T10:17:50Z",
             "owner": "yunjey",
             "repo": "pytorch-tutorial",
-            "stars": 32459
+            "stars": 32460
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2024-07-25T07:17:26Z",
             "owner": "zergtant",
             "repo": "pytorch-handbook",
-            "stars": 21672
+            "stars": 21675
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2025-10-14T17:32:07Z",
             "owner": "OpenNMT",
             "repo": "OpenNMT-py",
-            "stars": 7012
+            "stars": 7011
           }
         },
         {
@@ -174,7 +174,7 @@
             "archived": false,
             "id": 73328905,
             "language": "Python",
-            "last_commit": "2026-08-19T11:40:42Z",
+            "last_commit": "2026-08-19T21:02:42Z",
             "owner": "pytorch",
             "repo": "vision",
             "stars": 17872
@@ -356,7 +356,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:10:04.103Z",
+    "last_updated": "2026-08-20T03:13:29.809Z",
     "original_repository": "INTERMT/Awesome-PyTorch-Chinese",
     "original_repository_id": 184381881,
     "original_repository_sha": "7cfc7ca7728c689fb401292ec8b442548283368d",
