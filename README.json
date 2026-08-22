@@ -15,7 +15,7 @@
             "last_commit": "2023-08-15T10:17:50Z",
             "owner": "yunjey",
             "repo": "pytorch-tutorial",
-            "stars": 32461
+            "stars": 32462
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-07-28T08:44:04Z",
             "owner": "fendouai",
             "repo": "PyTorchDocs",
-            "stars": 2952
+            "stars": 2951
           }
         },
         {
@@ -174,10 +174,10 @@
             "archived": false,
             "id": 73328905,
             "language": "Python",
-            "last_commit": "2026-08-20T19:43:46Z",
+            "last_commit": "2026-08-21T22:52:14Z",
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17872
+            "stars": 17873
           }
         },
         {
@@ -356,7 +356,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T03:25:35.236Z",
+    "last_updated": "2026-08-22T03:11:17.774Z",
     "original_repository": "INTERMT/Awesome-PyTorch-Chinese",
     "original_repository_id": 184381881,
     "original_repository_sha": "7cfc7ca7728c689fb401292ec8b442548283368d",
