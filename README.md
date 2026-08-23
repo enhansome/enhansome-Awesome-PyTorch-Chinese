@@ -11,9 +11,9 @@
 
 ## PyTorch学习教程、手册
 
-* [比较偏算法实战的PyTorch代码教程](https://github.com/yunjey/pytorch-tutorial) ⭐ 32,462 | 🐛 89 | 🌐 Python | 📅 2023-08-15：在github上有很高的star。建议大家在阅读本文档之前，先学习上述两个PyTorch基础教程。
-* [开源书籍](https://github.com/zergtant/pytorch-handbook) ⭐ 21,675 | 🐛 60 | 🌐 Jupyter Notebook | 📅 2024-07-25：这是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门。但本文档不是内容不是很全，还在持续更新中。
-* [PyTorch中文官方文档](https://github.com/fendouai/PyTorchDocs) ⭐ 2,951 | 🐛 5 | 🌐 Python | 📅 2026-07-28：阅读上述英文文档比较困难的同学也不要紧，我们为大家准备了比较官方的PyTorch中文文档，文档非常详细的介绍了各个函数，可作为一份PyTorch的速查宝典。
+* [比较偏算法实战的PyTorch代码教程](https://github.com/yunjey/pytorch-tutorial) ⭐ 32,463 | 🐛 89 | 🌐 Python | 📅 2023-08-15：在github上有很高的star。建议大家在阅读本文档之前，先学习上述两个PyTorch基础教程。
+* [开源书籍](https://github.com/zergtant/pytorch-handbook) ⭐ 21,678 | 🐛 60 | 🌐 Jupyter Notebook | 📅 2024-07-25：这是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门。但本文档不是内容不是很全，还在持续更新中。
+* [PyTorch中文官方文档](https://github.com/fendouai/PyTorchDocs) ⭐ 2,952 | 🐛 5 | 🌐 Python | 📅 2026-07-28：阅读上述英文文档比较困难的同学也不要紧，我们为大家准备了比较官方的PyTorch中文文档，文档非常详细的介绍了各个函数，可作为一份PyTorch的速查宝典。
 * [简单易上手的PyTorch中文文档](https://github.com/fendouai/pytorch1.0-cn) ⭐ 370 | 🐛 1 | 📅 2019-04-20：非常适合新手学习。该文档从介绍什么是PyTorch开始，到神经网络、PyTorch的安装，再到图像分类器、数据并行处理，非常详细的介绍了PyTorch的知识体系，适合新手的学习入门。该文档的官网：<http://pytorchchina.com> 。
 * [PyTorch英文版官方手册](https://pytorch.org/tutorials/)：对于英文比较好的同学，非常推荐该PyTorch官方文档，一步步带你从入门到精通。该文档详细的介绍了从基础知识到如何使用PyTorch构建深层神经网络，以及PyTorch语法和一些高质量的案例。
 
@@ -34,13 +34,13 @@
   * torchText.datasets：通用NLP数据集的预训练加载程序
     我们只需要通过pip install torchtext安装好torchtext后，便可以开始体验Torchtext 的种种便捷之处。
 * [Pytorch-Seq2seq](https://github.com/IBM/pytorch-seq2seq) ⚠️ Archived：Seq2seq是一个快速发展的领域，新技术和新框架经常在此发布。这个库是在PyTorch中实现的Seq2seq模型的框架，该框架为Seq2seq模型的训练和预测等都提供了模块化和可扩展的组件，此github项目是一个基础版本，目标是促进这些技术和应用程序的开发。
-* [BERT NER](https://github.com/kamalkraj/BERT-NER) ⭐ 1,249 | 🐛 33 | 🌐 Python | 📅 2021-05-06：BERT是2018年google 提出来的预训练语言模型，自其诞生后打破了一系列的NLP任务，所以其在nlp的领域一直具有很重要的影响力。该github库是BERT的PyTorch版本，内置了很多强大的预训练模型，使用时非常方便、易上手。
+* [BERT NER](https://github.com/kamalkraj/BERT-NER) ⭐ 1,248 | 🐛 33 | 🌐 Python | 📅 2021-05-06：BERT是2018年google 提出来的预训练语言模型，自其诞生后打破了一系列的NLP任务，所以其在nlp的领域一直具有很重要的影响力。该github库是BERT的PyTorch版本，内置了很多强大的预训练模型，使用时非常方便、易上手。
 * [Quick-nlp](https://github.com/outcastofmusic/quick-nlp) ⭐ 283 | 🐛 1 | 🌐 Python | 📅 2018-07-04：Quick-nlp是一个深受fast.ai库启发的深入学习Nlp库。它遵循与Fastai相同的API，并对其进行了扩展，允许快速、轻松地运行NLP模型。
 
 ## CV\&PyTorch实战
 
-* [pytorch vision](https://github.com/pytorch/vision) ⭐ 17,873 | 🐛 1,193 | 🌐 Python | 📅 2026-08-21：Torchvision是独立于pytorch的关于图像操作的一些方便工具库。主要包括：vision.datasets 、vision.models、vision.transforms、vision.utils 几个包，安装和使用都非常简单，感兴趣的小伙伴们可以参考以上链接。
-* [Face-alignment](https://github.com/1adrianb/face-alignment#face-recognition) ⭐ 7,538 | 🐛 91 | 🌐 Python | 📅 2026-04-06：Face-alignment是一个用 pytorch 实现的 2D 和 3D 人脸对齐库，使用世界上最准确的面对齐网络从 Python 检测面部地标，能够在2D和3D坐标中检测点。该github库详细的介绍了使用Face-alignment进行人脸对齐的基本流程，欢迎感兴趣的同学学习。
+* [pytorch vision](https://github.com/pytorch/vision) ⭐ 17,874 | 🐛 1,194 | 🌐 Python | 📅 2026-08-22：Torchvision是独立于pytorch的关于图像操作的一些方便工具库。主要包括：vision.datasets 、vision.models、vision.transforms、vision.utils 几个包，安装和使用都非常简单，感兴趣的小伙伴们可以参考以上链接。
+* [Face-alignment](https://github.com/1adrianb/face-alignment#face-recognition) ⭐ 7,539 | 🐛 91 | 🌐 Python | 📅 2026-04-06：Face-alignment是一个用 pytorch 实现的 2D 和 3D 人脸对齐库，使用世界上最准确的面对齐网络从 Python 检测面部地标，能够在2D和3D坐标中检测点。该github库详细的介绍了使用Face-alignment进行人脸对齐的基本流程，欢迎感兴趣的同学学习。
 * [TorchCV](https://github.com/donnyyou/torchcv) ⭐ 2,250 | 🐛 42 | 🌐 Shell | 📅 2020-11-19：TorchCV是一个基于PyTorch的计算机视觉深度学习框架，支持大部分视觉任务训练和部署，此github库为大多数基于深度学习的CV问题提供源代码，对CV方向感兴趣的小伙伴还在等什么？
 * [Pytorch-cnn-finetune](https://github.com/creafz/pytorch-cnn-finetune) ⭐ 722 | 🐛 6 | 🌐 Python | 📅 2024-08-16：该github库是利用pytorch对预训练卷积神经网络进行微调，支持的架构和模型包括：ResNet 、DenseNet、Inception v3 、VGG、SqueezeNet 、AlexNet 等。
 * [OpenFacePytorch](https://github.com/thnkim/OpenFacePytorch) ⭐ 189 | 🐛 5 | 🌐 Python | 📅 2020-02-20：此github库是OpenFace在Pytorch中的实现，代码要求输入的图像要与原始OpenFace相同的方式对齐和裁剪。
@@ -76,4 +76,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
