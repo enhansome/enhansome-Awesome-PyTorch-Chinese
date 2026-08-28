@@ -15,8 +15,9 @@
             "last_commit": "2023-08-15T10:17:50Z",
             "owner": "yunjey",
             "repo": "pytorch-tutorial",
-            "stars": 32464
-          }
+            "stars": 32465
+          },
+          "first_seen": "2026-08-28T14:25:08.949Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2024-07-25T07:17:26Z",
             "owner": "zergtant",
             "repo": "pytorch-handbook",
-            "stars": 21677
-          }
+            "stars": 21678
+          },
+          "first_seen": "2026-08-28T14:25:08.949Z"
         },
         {
           "node_type": "item",
@@ -45,8 +47,9 @@
             "last_commit": "2026-07-28T08:44:04Z",
             "owner": "fendouai",
             "repo": "PyTorchDocs",
-            "stars": 2951
-          }
+            "stars": 2953
+          },
+          "first_seen": "2026-08-28T14:25:08.949Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "fendouai",
             "repo": "pytorch1.0-cn",
             "stars": 370
-          }
+          },
+          "first_seen": "2026-08-28T14:25:08.949Z"
         }
       ],
       "title": "PyTorch学习教程、手册"
@@ -81,8 +85,9 @@
             "last_commit": "2025-09-30T11:16:06Z",
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32231
-          }
+            "stars": 32232
+          },
+          "first_seen": "2026-08-28T14:25:08.949Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "OpenNMT",
             "repo": "OpenNMT-py",
             "stars": 7013
-          }
+          },
+          "first_seen": "2026-08-28T14:25:08.949Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "pytorch",
             "repo": "text",
             "stars": 3554
-          }
+          },
+          "first_seen": "2026-08-28T14:25:08.949Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "IBM",
             "repo": "pytorch-seq2seq",
             "stars": 1515
-          }
+          },
+          "first_seen": "2026-08-28T14:25:08.949Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "kamalkraj",
             "repo": "BERT-NER",
             "stars": 1249
-          }
+          },
+          "first_seen": "2026-08-28T14:25:08.949Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "outcastofmusic",
             "repo": "quick-nlp",
             "stars": 283
-          }
+          },
+          "first_seen": "2026-08-28T14:25:08.949Z"
         }
       ],
       "title": "NLP&PyTorch实战"
@@ -174,11 +184,12 @@
             "archived": false,
             "id": 73328905,
             "language": "Python",
-            "last_commit": "2026-08-27T09:09:48Z",
+            "last_commit": "2026-08-28T06:57:17Z",
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17885
-          }
+            "stars": 17886
+          },
+          "first_seen": "2026-08-28T14:25:08.949Z"
         },
         {
           "node_type": "item",
@@ -193,7 +204,8 @@
             "owner": "1adrianb",
             "repo": "face-alignment",
             "stars": 7538
-          }
+          },
+          "first_seen": "2026-08-28T14:25:08.949Z"
         },
         {
           "node_type": "item",
@@ -208,7 +220,8 @@
             "owner": "donnyyou",
             "repo": "torchcv",
             "stars": 2251
-          }
+          },
+          "first_seen": "2026-08-28T14:25:08.949Z"
         },
         {
           "node_type": "item",
@@ -223,7 +236,8 @@
             "owner": "creafz",
             "repo": "pytorch-cnn-finetune",
             "stars": 722
-          }
+          },
+          "first_seen": "2026-08-28T14:25:08.949Z"
         },
         {
           "node_type": "item",
@@ -238,7 +252,8 @@
             "owner": "thnkim",
             "repo": "OpenFacePytorch",
             "stars": 189
-          }
+          },
+          "first_seen": "2026-08-28T14:25:08.949Z"
         },
         {
           "node_type": "item",
@@ -253,7 +268,8 @@
             "owner": "tymokvo",
             "repo": "pt-styletransfer",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T14:25:08.949Z"
         }
       ],
       "title": "CV&PyTorch实战"
@@ -274,7 +290,8 @@
             "owner": "edouardoyallon",
             "repo": "pyscatwave",
             "stars": 295
-          }
+          },
+          "first_seen": "2026-08-28T14:25:08.949Z"
         },
         {
           "node_type": "item",
@@ -289,7 +306,8 @@
             "owner": "kefirski",
             "repo": "pytorch_NEG_loss",
             "stars": 123
-          }
+          },
+          "first_seen": "2026-08-28T14:25:08.949Z"
         },
         {
           "node_type": "item",
@@ -304,7 +322,8 @@
             "owner": "onlytailei",
             "repo": "Value-Iteration-Networks-PyTorch",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-28T14:25:08.949Z"
         },
         {
           "node_type": "item",
@@ -319,7 +338,8 @@
             "owner": "kefirski",
             "repo": "pytorch_TDNN",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-28T14:25:08.949Z"
         },
         {
           "node_type": "item",
@@ -334,7 +354,8 @@
             "owner": "kefirski",
             "repo": "pytorch_Highway",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-28T14:25:08.949Z"
         },
         {
           "node_type": "item",
@@ -349,14 +370,15 @@
             "owner": "neuralix",
             "repo": "google_evolution",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T14:25:08.949Z"
         }
       ],
       "title": "PyTorch论文推荐"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:53:50.491Z",
+    "last_updated": "2026-08-28T14:25:08.949Z",
     "original_repository_info": {
       "archived": false,
       "id": 184381881,
