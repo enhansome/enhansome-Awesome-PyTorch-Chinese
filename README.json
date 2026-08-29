@@ -10,12 +10,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch Tutorial for Deep Learning Researchers",
+            "homepage": null,
             "id": 84533158,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-08-15T10:17:50Z",
+            "open_issues": 89,
             "owner": "yunjey",
             "repo": "pytorch-tutorial",
-            "stars": 32465
+            "stars": 32466,
+            "topics": [
+              "deep-learning",
+              "neural-networks",
+              "pytorch",
+              "pytorch-tutorial"
+            ]
           },
           "first_seen": "2026-08-28T14:25:08.949Z"
         },
@@ -26,12 +36,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "pytorch handbook是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行",
+            "homepage": null,
             "id": 160124067,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2024-07-25T07:17:26Z",
+            "open_issues": 60,
             "owner": "zergtant",
             "repo": "pytorch-handbook",
-            "stars": 21678
+            "stars": 21678,
+            "topics": [
+              "deep-learning",
+              "machine-learning",
+              "neural-network",
+              "pytorch",
+              "pytorch-handbook",
+              "pytorch-tutorials"
+            ]
           },
           "first_seen": "2026-08-28T14:25:08.949Z"
         },
@@ -42,12 +64,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch 官方中文教程包含 60 分钟快速入门教程，强化教程，计算机视觉，自然语言处理，生成对抗网络，强化学习。欢迎 Star，Fork！",
+            "homepage": "http://pytorchchina.com",
             "id": 183181254,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-28T08:44:04Z",
+            "open_issues": 5,
             "owner": "fendouai",
             "repo": "PyTorchDocs",
-            "stars": 2953
+            "stars": 2953,
+            "topics": [
+              "pytorch",
+              "pytorch-cnn",
+              "pytorch-gan",
+              "pytorch-nlp",
+              "pytorch-tutorial"
+            ]
           },
           "first_seen": "2026-08-28T14:25:08.949Z"
         },
@@ -58,12 +91,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch 1.0 官方文档 中文版，欢迎关注微信公众号：磐创AI",
+            "homepage": "http://pytorchchina.com",
             "id": 162254185,
             "language": null,
+            "license": "MIT",
             "last_commit": "2019-04-20T12:59:07Z",
+            "open_issues": 1,
             "owner": "fendouai",
             "repo": "pytorch1.0-cn",
-            "stars": 370
+            "stars": 370,
+            "topics": [
+              "pytorch",
+              "pytorch-nlp",
+              "pytorch-tutorial"
+            ]
           },
           "first_seen": "2026-08-28T14:25:08.949Z"
         }
@@ -80,12 +122,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+            "homepage": null,
             "id": 101782647,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-09-30T11:16:06Z",
+            "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32232
+            "stars": 32232,
+            "topics": [
+              "artificial-intelligence",
+              "python",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T14:25:08.949Z"
         },
@@ -96,12 +147,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source Neural Machine Translation and (Large) Language Models in PyTorch",
+            "homepage": "https://opennmt.net/",
             "id": 82841862,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-10-14T17:32:07Z",
+            "open_issues": 23,
             "owner": "OpenNMT",
             "repo": "OpenNMT-py",
-            "stars": 7013
+            "stars": 7013,
+            "topics": [
+              "deep-learning",
+              "language-model",
+              "llms",
+              "machine-translation",
+              "neural-machine-translation",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T14:25:08.949Z"
         },
@@ -112,12 +175,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Models, data loaders and abstractions for language processing, powered by PyTorch",
+            "homepage": "https://pytorch.org/text",
             "id": 76210069,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-09-10T21:39:02Z",
+            "open_issues": 346,
             "owner": "pytorch",
             "repo": "text",
-            "stars": 3554
+            "stars": 3554,
+            "topics": [
+              "data-loader",
+              "dataset",
+              "deep-learning",
+              "models",
+              "nlp",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T14:25:08.949Z"
         },
@@ -128,12 +203,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An open source framework for seq2seq models in PyTorch.",
+            "homepage": "https://ibm.github.io/pytorch-seq2seq/public/index.html",
             "id": 95684188,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-17T19:46:43Z",
+            "open_issues": 40,
             "owner": "IBM",
             "repo": "pytorch-seq2seq",
-            "stars": 1515
+            "stars": 1515,
+            "topics": [
+              "deeplearning",
+              "pytorch",
+              "seq2seq"
+            ]
           },
           "first_seen": "2026-08-28T14:25:08.949Z"
         },
@@ -144,12 +228,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pytorch-Named-Entity-Recognition-with-BERT",
+            "homepage": null,
             "id": 172325096,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2021-05-06T19:38:36Z",
+            "open_issues": 33,
             "owner": "kamalkraj",
             "repo": "BERT-NER",
-            "stars": 1249
+            "stars": 1249,
+            "topics": [
+              "bert",
+              "bert-ner",
+              "conll-2003",
+              "cpp11",
+              "curl",
+              "inference",
+              "named-entity-recognition",
+              "postman",
+              "pretrained-models",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T14:25:08.949Z"
         },
@@ -160,12 +260,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pytorch NLP library based on FastAI ",
+            "homepage": null,
             "id": 126586968,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-07-04T08:13:28Z",
+            "open_issues": 1,
             "owner": "outcastofmusic",
             "repo": "quick-nlp",
-            "stars": 283
+            "stars": 283,
+            "topics": [
+              "fastai",
+              "nlp-library",
+              "pytorch",
+              "seq2seq"
+            ]
           },
           "first_seen": "2026-08-28T14:25:08.949Z"
         }
@@ -182,12 +292,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Datasets, Transforms and Models specific to Computer Vision",
+            "homepage": "https://pytorch.org/vision",
             "id": 73328905,
             "language": "Python",
-            "last_commit": "2026-08-28T06:57:17Z",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-28T15:34:09Z",
+            "open_issues": 1198,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17886
+            "stars": 17887,
+            "topics": [
+              "computer-vision",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T14:25:08.949Z"
         },
@@ -198,12 +316,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":fire: 2D and 3D Face alignment library build using pytorch ",
+            "homepage": "https://www.adrianbulat.com",
             "id": 103698763,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-04-06T22:19:17Z",
+            "open_issues": 91,
             "owner": "1adrianb",
             "repo": "face-alignment",
-            "stars": 7538
+            "stars": 7538,
+            "topics": [
+              "deep-learning",
+              "face-alignment",
+              "face-detection",
+              "face-detector",
+              "python",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T14:25:08.949Z"
         },
@@ -214,12 +344,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TorchCV: A PyTorch-Based Framework for Deep Learning in Computer Vision",
+            "homepage": "https://pytorchcv.com",
             "id": 153722564,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2020-11-19T05:40:57Z",
+            "open_issues": 42,
             "owner": "donnyyou",
             "repo": "torchcv",
-            "stars": 2251
+            "stars": 2251,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:25:08.949Z"
         },
@@ -230,12 +365,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fine-tune pretrained Convolutional Neural Networks with PyTorch",
+            "homepage": null,
             "id": 122027056,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-08-16T20:46:50Z",
+            "open_issues": 6,
             "owner": "creafz",
             "repo": "pytorch-cnn-finetune",
-            "stars": 722
+            "stars": 722,
+            "topics": [
+              "convolutional-neural-networks",
+              "deep-learning",
+              "pretrained-models",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T14:25:08.949Z"
         },
@@ -246,12 +391,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch module to use OpenFace's nn4.small2.v1.t7 model",
+            "homepage": null,
             "id": 91192665,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2020-02-20T16:32:38Z",
+            "open_issues": 5,
             "owner": "thnkim",
             "repo": "OpenFacePytorch",
-            "stars": 189
+            "stars": 189,
+            "topics": [
+              "openface",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T14:25:08.949Z"
         },
@@ -262,12 +415,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Neural style transfer as a class in PyTorch",
+            "homepage": null,
             "id": 87079368,
             "language": "Python",
+            "license": null,
             "last_commit": "2017-04-03T14:13:32Z",
+            "open_issues": 0,
             "owner": "tymokvo",
             "repo": "pt-styletransfer",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:25:08.949Z"
         }
@@ -284,12 +442,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast Scattering Transform with CuPy/PyTorch",
+            "homepage": "https://arxiv.org/abs/1703.08961",
             "id": 86152173,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2020-02-22T23:17:37Z",
+            "open_issues": 1,
             "owner": "edouardoyallon",
             "repo": "pyscatwave",
-            "stars": 295
+            "stars": 295,
+            "topics": [
+              "deep-learning",
+              "pytorch",
+              "scattering-transform"
+            ]
           },
           "first_seen": "2026-08-28T14:25:08.949Z"
         },
@@ -300,12 +467,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NEG loss implemented in pytorch",
+            "homepage": null,
             "id": 83875466,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2017-07-07T08:49:15Z",
+            "open_issues": 1,
             "owner": "kefirski",
             "repo": "pytorch_NEG_loss",
-            "stars": 123
+            "stars": 123,
+            "topics": [
+              "python",
+              "pytorch",
+              "word2vec"
+            ]
           },
           "first_seen": "2026-08-28T14:25:08.949Z"
         },
@@ -316,12 +492,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch implementation of the Value Iteration Networks (VIN) (NIPS '16 best paper)",
+            "homepage": null,
             "id": 84811479,
             "language": "Python",
+            "license": null,
             "last_commit": "2017-03-13T13:46:31Z",
+            "open_issues": 0,
             "owner": "onlytailei",
             "repo": "Value-Iteration-Networks-PyTorch",
-            "stars": 80
+            "stars": 80,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:25:08.949Z"
         },
@@ -332,12 +513,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Time Delayed NN implemented in pytorch",
+            "homepage": null,
             "id": 83878532,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2017-03-27T17:07:01Z",
+            "open_issues": 1,
             "owner": "kefirski",
             "repo": "pytorch_TDNN",
-            "stars": 80
+            "stars": 80,
+            "topics": [
+              "cnn",
+              "deep-learning",
+              "python",
+              "pytorch",
+              "tdnn"
+            ]
           },
           "first_seen": "2026-08-28T14:25:08.949Z"
         },
@@ -348,12 +540,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Highway network implemented in pytorch",
+            "homepage": null,
             "id": 83874472,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2017-03-27T17:03:17Z",
+            "open_issues": 1,
             "owner": "kefirski",
             "repo": "pytorch_Highway",
-            "stars": 79
+            "stars": 79,
+            "topics": [
+              "highway-network",
+              "python",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T14:25:08.949Z"
         },
@@ -364,12 +565,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 85814424,
             "language": "Python",
+            "license": null,
             "last_commit": "2017-03-23T04:46:45Z",
+            "open_issues": 0,
             "owner": "neuralix",
             "repo": "google_evolution",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:25:08.949Z"
         }
@@ -378,15 +584,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T14:25:08.949Z",
+    "last_updated": "2026-08-29T04:23:25.915Z",
     "original_repository_info": {
       "archived": false,
+      "description": "【干货】史上最全的PyTorch学习资源汇总",
+      "homepage": "http://www.pytorchchina.com",
       "id": 184381881,
       "language": "Python",
+      "license": "MIT",
       "last_commit": "2019-08-14T03:04:28Z",
+      "open_issues": 3,
       "owner": "INTERMT",
       "repo": "Awesome-PyTorch-Chinese",
-      "stars": 4769
+      "stars": 4769,
+      "topics": [
+        "awesome",
+        "deep-learning",
+        "neural-network",
+        "pytroch"
+      ]
     },
     "original_repository_sha": "7cfc7ca7728c689fb401292ec8b442548283368d",
     "enhanced_repository": "enhansome/enhansome-Awesome-PyTorch-Chinese",
