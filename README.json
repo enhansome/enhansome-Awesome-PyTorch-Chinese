@@ -19,7 +19,7 @@
             "open_issues": 89,
             "owner": "yunjey",
             "repo": "pytorch-tutorial",
-            "stars": 32470,
+            "stars": 32473,
             "topics": [
               "deep-learning",
               "neural-networks",
@@ -45,7 +45,7 @@
             "open_issues": 60,
             "owner": "zergtant",
             "repo": "pytorch-handbook",
-            "stars": 21680,
+            "stars": 21682,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -73,7 +73,7 @@
             "open_issues": 5,
             "owner": "fendouai",
             "repo": "PyTorchDocs",
-            "stars": 2953,
+            "stars": 2954,
             "topics": [
               "pytorch",
               "pytorch-cnn",
@@ -131,7 +131,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32231,
+            "stars": 32229,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -297,11 +297,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-29T11:37:23Z",
-            "open_issues": 1198,
+            "last_commit": "2026-08-30T11:37:32Z",
+            "open_issues": 1201,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17893,
+            "stars": 17895,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -584,7 +584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T08:23:27.041Z",
+    "last_updated": "2026-08-31T08:43:40.318Z",
     "original_repository_info": {
       "archived": false,
       "description": "【干货】史上最全的PyTorch学习资源汇总",
@@ -596,7 +596,7 @@
       "open_issues": 3,
       "owner": "INTERMT",
       "repo": "Awesome-PyTorch-Chinese",
-      "stars": 4769,
+      "stars": 4770,
       "topics": [
         "awesome",
         "deep-learning",
