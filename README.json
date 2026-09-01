@@ -19,7 +19,7 @@
             "open_issues": 89,
             "owner": "yunjey",
             "repo": "pytorch-tutorial",
-            "stars": 32473,
+            "stars": 32475,
             "topics": [
               "deep-learning",
               "neural-networks",
@@ -45,7 +45,7 @@
             "open_issues": 60,
             "owner": "zergtant",
             "repo": "pytorch-handbook",
-            "stars": 21682,
+            "stars": 21685,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -73,7 +73,7 @@
             "open_issues": 5,
             "owner": "fendouai",
             "repo": "PyTorchDocs",
-            "stars": 2954,
+            "stars": 2955,
             "topics": [
               "pytorch",
               "pytorch-cnn",
@@ -156,7 +156,7 @@
             "open_issues": 23,
             "owner": "OpenNMT",
             "repo": "OpenNMT-py",
-            "stars": 7013,
+            "stars": 7014,
             "topics": [
               "deep-learning",
               "language-model",
@@ -297,11 +297,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-30T11:37:32Z",
-            "open_issues": 1201,
+            "last_commit": "2026-08-31T11:36:48Z",
+            "open_issues": 1202,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17895,
+            "stars": 17896,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -584,7 +584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T08:43:40.318Z",
+    "last_updated": "2026-09-01T07:52:43.339Z",
     "original_repository_info": {
       "archived": false,
       "description": "【干货】史上最全的PyTorch学习资源汇总",
@@ -596,7 +596,7 @@
       "open_issues": 3,
       "owner": "INTERMT",
       "repo": "Awesome-PyTorch-Chinese",
-      "stars": 4770,
+      "stars": 4772,
       "topics": [
         "awesome",
         "deep-learning",
