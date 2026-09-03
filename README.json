@@ -45,7 +45,7 @@
             "open_issues": 60,
             "owner": "zergtant",
             "repo": "pytorch-handbook",
-            "stars": 21686,
+            "stars": 21690,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -131,7 +131,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32229,
+            "stars": 32230,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -297,11 +297,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-01T11:36:49Z",
-            "open_issues": 1202,
+            "last_commit": "2026-09-02T15:20:34Z",
+            "open_issues": 1203,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17895,
+            "stars": 17899,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -325,7 +325,7 @@
             "open_issues": 91,
             "owner": "1adrianb",
             "repo": "face-alignment",
-            "stars": 7537,
+            "stars": 7535,
             "topics": [
               "deep-learning",
               "face-alignment",
@@ -584,7 +584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T07:09:54.825Z",
+    "last_updated": "2026-09-03T07:14:39.715Z",
     "original_repository_info": {
       "archived": false,
       "description": "【干货】史上最全的PyTorch学习资源汇总",
@@ -596,7 +596,7 @@
       "open_issues": 3,
       "owner": "INTERMT",
       "repo": "Awesome-PyTorch-Chinese",
-      "stars": 4771,
+      "stars": 4772,
       "topics": [
         "awesome",
         "deep-learning",
