@@ -19,7 +19,7 @@
             "open_issues": 89,
             "owner": "yunjey",
             "repo": "pytorch-tutorial",
-            "stars": 32480,
+            "stars": 32482,
             "topics": [
               "deep-learning",
               "neural-networks",
@@ -73,7 +73,7 @@
             "open_issues": 5,
             "owner": "fendouai",
             "repo": "PyTorchDocs",
-            "stars": 2955,
+            "stars": 2954,
             "topics": [
               "pytorch",
               "pytorch-cnn",
@@ -156,7 +156,7 @@
             "open_issues": 23,
             "owner": "OpenNMT",
             "repo": "OpenNMT-py",
-            "stars": 7015,
+            "stars": 7016,
             "topics": [
               "deep-learning",
               "language-model",
@@ -297,11 +297,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-04T11:37:05Z",
-            "open_issues": 1205,
+            "last_commit": "2026-09-05T11:37:16Z",
+            "open_issues": 1219,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17897,
+            "stars": 17899,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -584,7 +584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T06:59:00.008Z",
+    "last_updated": "2026-09-06T07:11:00.557Z",
     "original_repository_info": {
       "archived": false,
       "description": "【干货】史上最全的PyTorch学习资源汇总",
@@ -596,7 +596,7 @@
       "open_issues": 3,
       "owner": "INTERMT",
       "repo": "Awesome-PyTorch-Chinese",
-      "stars": 4772,
+      "stars": 4773,
       "topics": [
         "awesome",
         "deep-learning",
