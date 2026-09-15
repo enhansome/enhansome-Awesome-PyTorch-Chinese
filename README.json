@@ -73,7 +73,7 @@
             "open_issues": 5,
             "owner": "fendouai",
             "repo": "PyTorchDocs",
-            "stars": 2961,
+            "stars": 2962,
             "topics": [
               "pytorch",
               "pytorch-cnn",
@@ -131,7 +131,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32228,
+            "stars": 32227,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -297,11 +297,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-13T11:37:20Z",
-            "open_issues": 1226,
+            "last_commit": "2026-09-14T19:14:55Z",
+            "open_issues": 1224,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17907,
+            "stars": 17911,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -584,7 +584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T07:57:59.572Z",
+    "last_updated": "2026-09-15T07:51:59.746Z",
     "original_repository_info": {
       "archived": false,
       "description": "【干货】史上最全的PyTorch学习资源汇总",
@@ -596,7 +596,7 @@
       "open_issues": 3,
       "owner": "INTERMT",
       "repo": "Awesome-PyTorch-Chinese",
-      "stars": 4775,
+      "stars": 4777,
       "topics": [
         "awesome",
         "deep-learning",
