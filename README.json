@@ -131,7 +131,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32226,
+            "stars": 32224,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -297,11 +297,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-15T11:37:58Z",
+            "last_commit": "2026-09-16T21:52:45Z",
             "open_issues": 1222,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17912,
+            "stars": 17914,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -584,7 +584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T07:45:48.361Z",
+    "last_updated": "2026-09-17T07:48:03.143Z",
     "original_repository_info": {
       "archived": false,
       "description": "【干货】史上最全的PyTorch学习资源汇总",
@@ -596,7 +596,7 @@
       "open_issues": 3,
       "owner": "INTERMT",
       "repo": "Awesome-PyTorch-Chinese",
-      "stars": 4777,
+      "stars": 4778,
       "topics": [
         "awesome",
         "deep-learning",
