@@ -45,7 +45,7 @@
             "open_issues": 60,
             "owner": "zergtant",
             "repo": "pytorch-handbook",
-            "stars": 21710,
+            "stars": 21713,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -156,7 +156,7 @@
             "open_issues": 23,
             "owner": "OpenNMT",
             "repo": "OpenNMT-py",
-            "stars": 7016,
+            "stars": 7015,
             "topics": [
               "deep-learning",
               "language-model",
@@ -297,11 +297,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-17T11:38:06Z",
-            "open_issues": 1222,
+            "last_commit": "2026-09-18T11:37:05Z",
+            "open_issues": 1223,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17917,
+            "stars": 17915,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -584,7 +584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T07:28:13.978Z",
+    "last_updated": "2026-09-19T07:24:21.190Z",
     "original_repository_info": {
       "archived": false,
       "description": "【干货】史上最全的PyTorch学习资源汇总",
@@ -596,7 +596,7 @@
       "open_issues": 3,
       "owner": "INTERMT",
       "repo": "Awesome-PyTorch-Chinese",
-      "stars": 4781,
+      "stars": 4780,
       "topics": [
         "awesome",
         "deep-learning",
