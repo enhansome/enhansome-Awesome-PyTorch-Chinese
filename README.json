@@ -19,7 +19,7 @@
             "open_issues": 89,
             "owner": "yunjey",
             "repo": "pytorch-tutorial",
-            "stars": 32495,
+            "stars": 32497,
             "topics": [
               "deep-learning",
               "neural-networks",
@@ -297,11 +297,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-18T11:37:05Z",
+            "last_commit": "2026-09-19T11:37:01Z",
             "open_issues": 1223,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17915,
+            "stars": 17917,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -584,7 +584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T07:24:21.190Z",
+    "last_updated": "2026-09-20T07:47:45.268Z",
     "original_repository_info": {
       "archived": false,
       "description": "【干货】史上最全的PyTorch学习资源汇总",
@@ -596,7 +596,7 @@
       "open_issues": 3,
       "owner": "INTERMT",
       "repo": "Awesome-PyTorch-Chinese",
-      "stars": 4780,
+      "stars": 4781,
       "topics": [
         "awesome",
         "deep-learning",
