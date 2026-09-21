@@ -45,7 +45,7 @@
             "open_issues": 60,
             "owner": "zergtant",
             "repo": "pytorch-handbook",
-            "stars": 21713,
+            "stars": 21714,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -100,7 +100,7 @@
             "open_issues": 1,
             "owner": "fendouai",
             "repo": "pytorch1.0-cn",
-            "stars": 371,
+            "stars": 370,
             "topics": [
               "pytorch",
               "pytorch-nlp",
@@ -131,7 +131,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32222,
+            "stars": 32220,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -297,11 +297,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-19T11:37:01Z",
+            "last_commit": "2026-09-20T11:37:05Z",
             "open_issues": 1223,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17917,
+            "stars": 17922,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -325,7 +325,7 @@
             "open_issues": 91,
             "owner": "1adrianb",
             "repo": "face-alignment",
-            "stars": 7537,
+            "stars": 7539,
             "topics": [
               "deep-learning",
               "face-alignment",
@@ -584,7 +584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T07:47:45.268Z",
+    "last_updated": "2026-09-21T08:01:52.245Z",
     "original_repository_info": {
       "archived": false,
       "description": "【干货】史上最全的PyTorch学习资源汇总",
