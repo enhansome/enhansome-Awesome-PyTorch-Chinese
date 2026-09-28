@@ -28,7 +28,7 @@
 ## NLP\&PyTorch实战
 
 * [Fairseq](https://github.com/pytorch/fairseq) ⚠️ Archived：Fairseq是一个序列建模工具包，允许研究人员和开发人员为翻译、总结、语言建模和其他文本生成任务训练自定义模型，它还提供了各种Seq2seq模型的参考实现。该github存储库包含有关入门、训练新模型、使用新模型和任务扩展Fairseq的说明，对该模型感兴趣的小伙伴可以点击上方链接学习。
-* [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py) ⭐ 7,019 | 🐛 23 | 🌐 Python | 📅 2025-10-14：这是OpenNMT的一个PyTorch实现，一个开放源码的神经网络机器翻译系统。它的设计是为了便于研究，尝试新的想法，以及在翻译，总结，图像到文本，形态学等许多领域中尝试新的想法。一些公司已经证明该代码可以用于实际的工业项目中，更多关于这个github的详细信息请参阅以上链接。
+* [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py) ⭐ 7,017 | 🐛 23 | 🌐 Python | 📅 2025-10-14：这是OpenNMT的一个PyTorch实现，一个开放源码的神经网络机器翻译系统。它的设计是为了便于研究，尝试新的想法，以及在翻译，总结，图像到文本，形态学等许多领域中尝试新的想法。一些公司已经证明该代码可以用于实际的工业项目中，更多关于这个github的详细信息请参阅以上链接。
 * [Pytorch text](https://github.com/pytorch/text) ⚠️ Archived：Torchtext是一个非常好用的库，可以帮助我们很好的解决文本的预处理问题。此github存储库包含两部分：
   * torchText.data：文本的通用数据加载器、抽象和迭代器（包括词汇和词向量）
   * torchText.datasets：通用NLP数据集的预训练加载程序
@@ -39,7 +39,7 @@
 
 ## CV\&PyTorch实战
 
-* [pytorch vision](https://github.com/pytorch/vision) ⭐ 17,928 | 🐛 1,227 | 🌐 Python | 📅 2026-09-26：Torchvision是独立于pytorch的关于图像操作的一些方便工具库。主要包括：vision.datasets 、vision.models、vision.transforms、vision.utils 几个包，安装和使用都非常简单，感兴趣的小伙伴们可以参考以上链接。
+* [pytorch vision](https://github.com/pytorch/vision) ⭐ 17,931 | 🐛 1,226 | 🌐 Python | 📅 2026-09-27：Torchvision是独立于pytorch的关于图像操作的一些方便工具库。主要包括：vision.datasets 、vision.models、vision.transforms、vision.utils 几个包，安装和使用都非常简单，感兴趣的小伙伴们可以参考以上链接。
 * [Face-alignment](https://github.com/1adrianb/face-alignment#face-recognition) ⭐ 7,540 | 🐛 91 | 🌐 Python | 📅 2026-04-06：Face-alignment是一个用 pytorch 实现的 2D 和 3D 人脸对齐库，使用世界上最准确的面对齐网络从 Python 检测面部地标，能够在2D和3D坐标中检测点。该github库详细的介绍了使用Face-alignment进行人脸对齐的基本流程，欢迎感兴趣的同学学习。
 * [TorchCV](https://github.com/donnyyou/torchcv) ⭐ 2,252 | 🐛 42 | 🌐 Shell | 📅 2020-11-19：TorchCV是一个基于PyTorch的计算机视觉深度学习框架，支持大部分视觉任务训练和部署，此github库为大多数基于深度学习的CV问题提供源代码，对CV方向感兴趣的小伙伴还在等什么？
 * [Pytorch-cnn-finetune](https://github.com/creafz/pytorch-cnn-finetune) ⭐ 723 | 🐛 6 | 🌐 Python | 📅 2024-08-16：该github库是利用pytorch对预训练卷积神经网络进行微调，支持的架构和模型包括：ResNet 、DenseNet、Inception v3 、VGG、SqueezeNet 、AlexNet 等。
@@ -76,4 +76,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._

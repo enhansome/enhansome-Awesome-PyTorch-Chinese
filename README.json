@@ -131,7 +131,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32219,
+            "stars": 32218,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -156,7 +156,7 @@
             "open_issues": 23,
             "owner": "OpenNMT",
             "repo": "OpenNMT-py",
-            "stars": 7019,
+            "stars": 7017,
             "topics": [
               "deep-learning",
               "language-model",
@@ -297,11 +297,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-26T11:36:58Z",
-            "open_issues": 1227,
+            "last_commit": "2026-09-27T21:00:20Z",
+            "open_issues": 1226,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17928,
+            "stars": 17931,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -584,7 +584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T08:20:27.707Z",
+    "last_updated": "2026-09-28T08:47:10.717Z",
     "original_repository_info": {
       "archived": false,
       "description": "【干货】史上最全的PyTorch学习资源汇总",
