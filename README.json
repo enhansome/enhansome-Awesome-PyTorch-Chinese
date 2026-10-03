@@ -584,7 +584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:25:57.352Z",
+    "last_updated": "2026-10-03T08:16:50.515Z",
     "original_repository_info": {
       "archived": false,
       "description": "【干货】史上最全的PyTorch学习资源汇总",
@@ -596,7 +596,7 @@
       "open_issues": 3,
       "owner": "INTERMT",
       "repo": "Awesome-PyTorch-Chinese",
-      "stars": 4786,
+      "stars": 4785,
       "topics": [
         "awesome",
         "deep-learning",
