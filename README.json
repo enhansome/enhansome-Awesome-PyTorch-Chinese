@@ -19,7 +19,7 @@
             "open_issues": 89,
             "owner": "yunjey",
             "repo": "pytorch-tutorial",
-            "stars": 32503,
+            "stars": 32507,
             "topics": [
               "deep-learning",
               "neural-networks",
@@ -131,7 +131,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32207,
+            "stars": 32206,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -297,11 +297,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-09T11:40:28Z",
-            "open_issues": 1235,
+            "last_commit": "2026-10-10T11:39:48Z",
+            "open_issues": 1236,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17948,
+            "stars": 17951,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -325,7 +325,7 @@
             "open_issues": 91,
             "owner": "1adrianb",
             "repo": "face-alignment",
-            "stars": 7544,
+            "stars": 7545,
             "topics": [
               "deep-learning",
               "face-alignment",
@@ -584,7 +584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T08:38:36.889Z",
+    "last_updated": "2026-10-11T09:02:33.549Z",
     "original_repository_info": {
       "archived": false,
       "description": "【干货】史上最全的PyTorch学习资源汇总",
