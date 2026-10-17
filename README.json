@@ -19,7 +19,7 @@
             "open_issues": 89,
             "owner": "yunjey",
             "repo": "pytorch-tutorial",
-            "stars": 32508,
+            "stars": 32513,
             "topics": [
               "deep-learning",
               "neural-networks",
@@ -45,7 +45,7 @@
             "open_issues": 60,
             "owner": "zergtant",
             "repo": "pytorch-handbook",
-            "stars": 21728,
+            "stars": 21731,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -156,7 +156,7 @@
             "open_issues": 23,
             "owner": "OpenNMT",
             "repo": "OpenNMT-py",
-            "stars": 7017,
+            "stars": 7019,
             "topics": [
               "deep-learning",
               "language-model",
@@ -297,8 +297,8 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-15T11:40:13Z",
-            "open_issues": 1235,
+            "last_commit": "2026-10-16T11:39:37Z",
+            "open_issues": 1239,
             "owner": "pytorch",
             "repo": "vision",
             "stars": 17957,
@@ -584,7 +584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T07:19:15.429Z",
+    "last_updated": "2026-10-17T07:02:28.700Z",
     "original_repository_info": {
       "archived": false,
       "description": "【干货】史上最全的PyTorch学习资源汇总",
