@@ -11,7 +11,7 @@
 
 ## PyTorch学习教程、手册
 
-* [比较偏算法实战的PyTorch代码教程](https://github.com/yunjey/pytorch-tutorial) ⭐ 32,515 | 🐛 89 | 🌐 Python | 📅 2023-08-15：在github上有很高的star。建议大家在阅读本文档之前，先学习上述两个PyTorch基础教程。
+* [比较偏算法实战的PyTorch代码教程](https://github.com/yunjey/pytorch-tutorial) ⭐ 32,517 | 🐛 89 | 🌐 Python | 📅 2023-08-15：在github上有很高的star。建议大家在阅读本文档之前，先学习上述两个PyTorch基础教程。
 * [开源书籍](https://github.com/zergtant/pytorch-handbook) ⭐ 21,731 | 🐛 60 | 🌐 Jupyter Notebook | 📅 2024-07-25：这是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门。但本文档不是内容不是很全，还在持续更新中。
 * [PyTorch中文官方文档](https://github.com/fendouai/PyTorchDocs) ⭐ 2,974 | 🐛 5 | 🌐 Python | 📅 2026-07-28：阅读上述英文文档比较困难的同学也不要紧，我们为大家准备了比较官方的PyTorch中文文档，文档非常详细的介绍了各个函数，可作为一份PyTorch的速查宝典。
 * [简单易上手的PyTorch中文文档](https://github.com/fendouai/pytorch1.0-cn) ⭐ 370 | 🐛 1 | 📅 2019-04-20：非常适合新手学习。该文档从介绍什么是PyTorch开始，到神经网络、PyTorch的安装，再到图像分类器、数据并行处理，非常详细的介绍了PyTorch的知识体系，适合新手的学习入门。该文档的官网：<http://pytorchchina.com> 。
@@ -28,7 +28,7 @@
 ## NLP\&PyTorch实战
 
 * [Fairseq](https://github.com/pytorch/fairseq) ⚠️ Archived：Fairseq是一个序列建模工具包，允许研究人员和开发人员为翻译、总结、语言建模和其他文本生成任务训练自定义模型，它还提供了各种Seq2seq模型的参考实现。该github存储库包含有关入门、训练新模型、使用新模型和任务扩展Fairseq的说明，对该模型感兴趣的小伙伴可以点击上方链接学习。
-* [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py) ⭐ 7,019 | 🐛 23 | 🌐 Python | 📅 2025-10-14：这是OpenNMT的一个PyTorch实现，一个开放源码的神经网络机器翻译系统。它的设计是为了便于研究，尝试新的想法，以及在翻译，总结，图像到文本，形态学等许多领域中尝试新的想法。一些公司已经证明该代码可以用于实际的工业项目中，更多关于这个github的详细信息请参阅以上链接。
+* [OpenNMT-py](https://github.com/OpenNMT/OpenNMT-py) ⭐ 7,020 | 🐛 23 | 🌐 Python | 📅 2025-10-14：这是OpenNMT的一个PyTorch实现，一个开放源码的神经网络机器翻译系统。它的设计是为了便于研究，尝试新的想法，以及在翻译，总结，图像到文本，形态学等许多领域中尝试新的想法。一些公司已经证明该代码可以用于实际的工业项目中，更多关于这个github的详细信息请参阅以上链接。
 * [Pytorch text](https://github.com/pytorch/text) ⚠️ Archived：Torchtext是一个非常好用的库，可以帮助我们很好的解决文本的预处理问题。此github存储库包含两部分：
   * torchText.data：文本的通用数据加载器、抽象和迭代器（包括词汇和词向量）
   * torchText.datasets：通用NLP数据集的预训练加载程序
@@ -39,9 +39,9 @@
 
 ## CV\&PyTorch实战
 
-* [pytorch vision](https://github.com/pytorch/vision) ⭐ 17,961 | 🐛 1,240 | 🌐 Python | 📅 2026-10-19：Torchvision是独立于pytorch的关于图像操作的一些方便工具库。主要包括：vision.datasets 、vision.models、vision.transforms、vision.utils 几个包，安装和使用都非常简单，感兴趣的小伙伴们可以参考以上链接。
+* [pytorch vision](https://github.com/pytorch/vision) ⭐ 17,964 | 🐛 1,242 | 🌐 Python | 📅 2026-10-20：Torchvision是独立于pytorch的关于图像操作的一些方便工具库。主要包括：vision.datasets 、vision.models、vision.transforms、vision.utils 几个包，安装和使用都非常简单，感兴趣的小伙伴们可以参考以上链接。
 * [Face-alignment](https://github.com/1adrianb/face-alignment#face-recognition) ⭐ 7,546 | 🐛 91 | 🌐 Python | 📅 2026-04-06：Face-alignment是一个用 pytorch 实现的 2D 和 3D 人脸对齐库，使用世界上最准确的面对齐网络从 Python 检测面部地标，能够在2D和3D坐标中检测点。该github库详细的介绍了使用Face-alignment进行人脸对齐的基本流程，欢迎感兴趣的同学学习。
-* [TorchCV](https://github.com/donnyyou/torchcv) ⭐ 2,254 | 🐛 42 | 🌐 Shell | 📅 2020-11-19：TorchCV是一个基于PyTorch的计算机视觉深度学习框架，支持大部分视觉任务训练和部署，此github库为大多数基于深度学习的CV问题提供源代码，对CV方向感兴趣的小伙伴还在等什么？
+* [TorchCV](https://github.com/donnyyou/torchcv) ⭐ 2,253 | 🐛 42 | 🌐 Shell | 📅 2020-11-19：TorchCV是一个基于PyTorch的计算机视觉深度学习框架，支持大部分视觉任务训练和部署，此github库为大多数基于深度学习的CV问题提供源代码，对CV方向感兴趣的小伙伴还在等什么？
 * [Pytorch-cnn-finetune](https://github.com/creafz/pytorch-cnn-finetune) ⭐ 723 | 🐛 6 | 🌐 Python | 📅 2024-08-16：该github库是利用pytorch对预训练卷积神经网络进行微调，支持的架构和模型包括：ResNet 、DenseNet、Inception v3 、VGG、SqueezeNet 、AlexNet 等。
 * [OpenFacePytorch](https://github.com/thnkim/OpenFacePytorch) ⭐ 189 | 🐛 5 | 🌐 Python | 📅 2020-02-20：此github库是OpenFace在Pytorch中的实现，代码要求输入的图像要与原始OpenFace相同的方式对齐和裁剪。
 * [Pt-styletransfer](https://github.com/tymokvo/pt-styletransfer#pt-styletransfer) ⭐ 35 | 🐛 0 | 🌐 Python | 📅 2017-04-03：这个github项目是Pytorch中的神经风格转换，具体有以下几个需要注意的地方：
@@ -56,8 +56,8 @@
 
 * [Pyscatwave](https://github.com/edouardoyallon/pyscatwave) ⭐ 295 | 🐛 1 | 🌐 Python | 📅 2020-02-22：Cupy/Pythorn的散射实现。散射网络是一种卷积网络，它的滤波器被预先定义为子波，不需要学习，可以用于图像分类等视觉任务。散射变换可以显著降低输入的空间分辨率（例如224x224->14x14），且双关功率损失明显为负。
 * [Pytorch\_NEG\_loss](https://github.com/kefirski/pytorch_NEG_loss) ⭐ 123 | 🐛 1 | 🌐 Python | 📅 2017-07-07：该论文是Negative Sampling Loss的Pytorch实现。Negative Sampling是一种求解word2vec模型的方法，它摒弃了霍夫曼树，采用了Negative Sampling（负采样）的方法来求解，本论文是对Negative Sampling的loss函数的研究，感兴趣的小伙伴可点击上方论文链接学习。
-* [PyTorch-value-iteration-networks](https://github.com/onlytailei/Value-Iteration-Networks-PyTorch) ⭐ 80 | 🐛 0 | 🌐 Python | 📅 2017-03-13：该论文基于作者最初的Theano实现和Abhishek Kumar的Tensoflow实现，包含了在PyTorch中实现价值迭代网络（VIN）。Vin在NIPS 2016年获得最佳论文奖。
 * [Pytorch\_TDNN](https://github.com/kefirski/pytorch_TDNN) ⭐ 80 | 🐛 1 | 🌐 Python | 📅 2017-03-27：该论文是对Time Delayed NN的Pytorch实现。论文详细的讲述了TDNN的原理以及实现过程。
+* [PyTorch-value-iteration-networks](https://github.com/onlytailei/Value-Iteration-Networks-PyTorch) ⭐ 79 | 🐛 0 | 🌐 Python | 📅 2017-03-13：该论文基于作者最初的Theano实现和Abhishek Kumar的Tensoflow实现，包含了在PyTorch中实现价值迭代网络（VIN）。Vin在NIPS 2016年获得最佳论文奖。
 * [Pytorch Highway](https://github.com/kefirski/pytorch_Highway) ⭐ 79 | 🐛 1 | 🌐 Python | 📅 2017-03-27：Highway Netowrks是允许信息高速无阻碍的通过各层，它是从Long Short Term Memory(LSTM) recurrent networks中的gate机制受到启发，可以让信息无阻碍的通过许多层，达到训练深层神经网络的效果，使深层神经网络不在仅仅具有浅层神经网络的效果。该论文是Highway network基于Pytorch的实现。
 * [Google\_evolution](https://github.com/neuralix/google_evolution) ⭐ 52 | 🐛 0 | 🌐 Python | 📅 2017-03-23：该论文实现了实现了由Esteban Real等人提出的图像分类器大规模演化的结果网络。在实验之前，需要我们安装好PyTorch、 Scikit-learn以及下载好 [CIFAR10 dataset数据集](https://www.cs.toronto.edu/~kriz/cifar.html)。
 
@@ -76,4 +76,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._

@@ -19,7 +19,7 @@
             "open_issues": 89,
             "owner": "yunjey",
             "repo": "pytorch-tutorial",
-            "stars": 32515,
+            "stars": 32517,
             "topics": [
               "deep-learning",
               "neural-networks",
@@ -156,7 +156,7 @@
             "open_issues": 23,
             "owner": "OpenNMT",
             "repo": "OpenNMT-py",
-            "stars": 7019,
+            "stars": 7020,
             "topics": [
               "deep-learning",
               "language-model",
@@ -297,11 +297,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-19T11:40:55Z",
-            "open_issues": 1240,
+            "last_commit": "2026-10-20T11:40:12Z",
+            "open_issues": 1242,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17961,
+            "stars": 17964,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -353,7 +353,7 @@
             "open_issues": 42,
             "owner": "donnyyou",
             "repo": "torchcv",
-            "stars": 2254,
+            "stars": 2253,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:08.949Z"
@@ -487,27 +487,6 @@
         },
         {
           "node_type": "item",
-          "title": "PyTorch-value-iteration-networks",
-          "description": "：该论文基于作者最初的Theano实现和Abhishek Kumar的Tensoflow实现，包含了在PyTorch中实现价值迭代网络（VIN）。Vin在NIPS 2016年获得最佳论文奖。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "PyTorch implementation of the Value Iteration Networks (VIN) (NIPS '16 best paper)",
-            "homepage": null,
-            "id": 84811479,
-            "language": "Python",
-            "license": null,
-            "last_commit": "2017-03-13T13:46:31Z",
-            "open_issues": 0,
-            "owner": "onlytailei",
-            "repo": "Value-Iteration-Networks-PyTorch",
-            "stars": 80,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T14:25:08.949Z"
-        },
-        {
-          "node_type": "item",
           "title": "Pytorch_TDNN",
           "description": "：该论文是对Time Delayed NN的Pytorch实现。论文详细的讲述了TDNN的原理以及实现过程。",
           "children": [],
@@ -530,6 +509,27 @@
               "pytorch",
               "tdnn"
             ]
+          },
+          "first_seen": "2026-08-28T14:25:08.949Z"
+        },
+        {
+          "node_type": "item",
+          "title": "PyTorch-value-iteration-networks",
+          "description": "：该论文基于作者最初的Theano实现和Abhishek Kumar的Tensoflow实现，包含了在PyTorch中实现价值迭代网络（VIN）。Vin在NIPS 2016年获得最佳论文奖。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "PyTorch implementation of the Value Iteration Networks (VIN) (NIPS '16 best paper)",
+            "homepage": null,
+            "id": 84811479,
+            "language": "Python",
+            "license": null,
+            "last_commit": "2017-03-13T13:46:31Z",
+            "open_issues": 0,
+            "owner": "onlytailei",
+            "repo": "Value-Iteration-Networks-PyTorch",
+            "stars": 79,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:25:08.949Z"
         },
@@ -584,7 +584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T07:44:00.855Z",
+    "last_updated": "2026-10-21T07:48:07.560Z",
     "original_repository_info": {
       "archived": false,
       "description": "【干货】史上最全的PyTorch学习资源汇总",
@@ -596,7 +596,7 @@
       "open_issues": 3,
       "owner": "INTERMT",
       "repo": "Awesome-PyTorch-Chinese",
-      "stars": 4787,
+      "stars": 4788,
       "topics": [
         "awesome",
         "deep-learning",
