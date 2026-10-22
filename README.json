@@ -19,7 +19,7 @@
             "open_issues": 89,
             "owner": "yunjey",
             "repo": "pytorch-tutorial",
-            "stars": 32517,
+            "stars": 32516,
             "topics": [
               "deep-learning",
               "neural-networks",
@@ -45,7 +45,7 @@
             "open_issues": 60,
             "owner": "zergtant",
             "repo": "pytorch-handbook",
-            "stars": 21731,
+            "stars": 21732,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -131,7 +131,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32213,
+            "stars": 32212,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -297,11 +297,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-20T11:40:12Z",
-            "open_issues": 1242,
+            "last_commit": "2026-10-21T22:42:28Z",
+            "open_issues": 1247,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17964,
+            "stars": 17966,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -353,7 +353,7 @@
             "open_issues": 42,
             "owner": "donnyyou",
             "repo": "torchcv",
-            "stars": 2253,
+            "stars": 2252,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:08.949Z"
@@ -584,7 +584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T07:48:07.560Z",
+    "last_updated": "2026-10-22T07:43:52.292Z",
     "original_repository_info": {
       "archived": false,
       "description": "【干货】史上最全的PyTorch学习资源汇总",
@@ -596,7 +596,7 @@
       "open_issues": 3,
       "owner": "INTERMT",
       "repo": "Awesome-PyTorch-Chinese",
-      "stars": 4788,
+      "stars": 4786,
       "topics": [
         "awesome",
         "deep-learning",
