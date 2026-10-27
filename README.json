@@ -19,7 +19,7 @@
             "open_issues": 89,
             "owner": "yunjey",
             "repo": "pytorch-tutorial",
-            "stars": 32516,
+            "stars": 32514,
             "topics": [
               "deep-learning",
               "neural-networks",
@@ -45,7 +45,7 @@
             "open_issues": 60,
             "owner": "zergtant",
             "repo": "pytorch-handbook",
-            "stars": 21737,
+            "stars": 21734,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -73,7 +73,7 @@
             "open_issues": 5,
             "owner": "fendouai",
             "repo": "PyTorchDocs",
-            "stars": 2971,
+            "stars": 2970,
             "topics": [
               "pytorch",
               "pytorch-cnn",
@@ -131,7 +131,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32212,
+            "stars": 32211,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -156,7 +156,7 @@
             "open_issues": 23,
             "owner": "OpenNMT",
             "repo": "OpenNMT-py",
-            "stars": 7022,
+            "stars": 7019,
             "topics": [
               "deep-learning",
               "language-model",
@@ -212,7 +212,7 @@
             "open_issues": 40,
             "owner": "IBM",
             "repo": "pytorch-seq2seq",
-            "stars": 1515,
+            "stars": 1514,
             "topics": [
               "deeplearning",
               "pytorch",
@@ -297,7 +297,7 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-25T11:37:43Z",
+            "last_commit": "2026-10-26T11:45:12Z",
             "open_issues": 1249,
             "owner": "pytorch",
             "repo": "vision",
@@ -322,7 +322,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-04-06T22:19:17Z",
-            "open_issues": 91,
+            "open_issues": 92,
             "owner": "1adrianb",
             "repo": "face-alignment",
             "stars": 7548,
@@ -353,7 +353,7 @@
             "open_issues": 42,
             "owner": "donnyyou",
             "repo": "torchcv",
-            "stars": 2252,
+            "stars": 2251,
             "topics": []
           },
           "first_seen": "2026-08-28T14:25:08.949Z"
@@ -584,7 +584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T07:54:36.325Z",
+    "last_updated": "2026-10-27T08:00:55.178Z",
     "original_repository_info": {
       "archived": false,
       "description": "【干货】史上最全的PyTorch学习资源汇总",
@@ -596,7 +596,7 @@
       "open_issues": 3,
       "owner": "INTERMT",
       "repo": "Awesome-PyTorch-Chinese",
-      "stars": 4788,
+      "stars": 4787,
       "topics": [
         "awesome",
         "deep-learning",
