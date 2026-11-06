@@ -19,7 +19,7 @@
             "open_issues": 89,
             "owner": "yunjey",
             "repo": "pytorch-tutorial",
-            "stars": 32525,
+            "stars": 32526,
             "topics": [
               "deep-learning",
               "neural-networks",
@@ -45,7 +45,7 @@
             "open_issues": 60,
             "owner": "zergtant",
             "repo": "pytorch-handbook",
-            "stars": 21736,
+            "stars": 21737,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -73,7 +73,7 @@
             "open_issues": 5,
             "owner": "fendouai",
             "repo": "PyTorchDocs",
-            "stars": 2972,
+            "stars": 2973,
             "topics": [
               "pytorch",
               "pytorch-cnn",
@@ -131,7 +131,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32211,
+            "stars": 32210,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -297,11 +297,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-04T21:50:17Z",
-            "open_issues": 1256,
+            "last_commit": "2026-11-05T11:35:31Z",
+            "open_issues": 1258,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17986,
+            "stars": 17989,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -400,7 +400,7 @@
             "open_issues": 5,
             "owner": "thnkim",
             "repo": "OpenFacePytorch",
-            "stars": 189,
+            "stars": 187,
             "topics": [
               "openface",
               "pytorch"
@@ -584,7 +584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T09:37:47.221Z",
+    "last_updated": "2026-11-06T09:30:41.557Z",
     "original_repository_info": {
       "archived": false,
       "description": "【干货】史上最全的PyTorch学习资源汇总",
@@ -596,7 +596,7 @@
       "open_issues": 3,
       "owner": "INTERMT",
       "repo": "Awesome-PyTorch-Chinese",
-      "stars": 4790,
+      "stars": 4791,
       "topics": [
         "awesome",
         "deep-learning",
