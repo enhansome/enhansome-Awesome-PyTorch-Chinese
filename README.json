@@ -19,7 +19,7 @@
             "open_issues": 88,
             "owner": "yunjey",
             "repo": "pytorch-tutorial",
-            "stars": 32519,
+            "stars": 32522,
             "topics": [
               "deep-learning",
               "neural-networks",
@@ -45,7 +45,7 @@
             "open_issues": 60,
             "owner": "zergtant",
             "repo": "pytorch-handbook",
-            "stars": 21740,
+            "stars": 21739,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -73,7 +73,7 @@
             "open_issues": 5,
             "owner": "fendouai",
             "repo": "PyTorchDocs",
-            "stars": 2973,
+            "stars": 2975,
             "topics": [
               "pytorch",
               "pytorch-cnn",
@@ -131,7 +131,7 @@
             "open_issues": 1352,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32203,
+            "stars": 32204,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -156,7 +156,7 @@
             "open_issues": 23,
             "owner": "OpenNMT",
             "repo": "OpenNMT-py",
-            "stars": 7022,
+            "stars": 7023,
             "topics": [
               "deep-learning",
               "language-model",
@@ -192,31 +192,6 @@
               "models",
               "nlp",
               "pytorch"
-            ]
-          },
-          "first_seen": "2026-08-28T14:25:08.949Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Pytorch-Seq2seq",
-          "description": "：Seq2seq是一个快速发展的领域，新技术和新框架经常在此发布。这个库是在PyTorch中实现的Seq2seq模型的框架，该框架为Seq2seq模型的训练和预测等都提供了模块化和可扩展的组件，此github项目是一个基础版本，目标是促进这些技术和应用程序的开发。",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "description": "An open source framework for seq2seq models in PyTorch.",
-            "homepage": "https://ibm.github.io/pytorch-seq2seq/public/index.html",
-            "id": 95684188,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2025-09-17T19:46:43Z",
-            "open_issues": 40,
-            "owner": "IBM",
-            "repo": "pytorch-seq2seq",
-            "stars": 1514,
-            "topics": [
-              "deeplearning",
-              "pytorch",
-              "seq2seq"
             ]
           },
           "first_seen": "2026-08-28T14:25:08.949Z"
@@ -297,11 +272,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-09T11:35:28Z",
-            "open_issues": 1263,
+            "last_commit": "2026-11-10T11:35:18Z",
+            "open_issues": 1268,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17995,
+            "stars": 18000,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -325,7 +300,7 @@
             "open_issues": 92,
             "owner": "1adrianb",
             "repo": "face-alignment",
-            "stars": 7550,
+            "stars": 7551,
             "topics": [
               "deep-learning",
               "face-alignment",
@@ -584,7 +559,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T10:00:29.100Z",
+    "last_updated": "2026-11-11T09:35:01.354Z",
     "original_repository_info": {
       "archived": false,
       "description": "【干货】史上最全的PyTorch学习资源汇总",
