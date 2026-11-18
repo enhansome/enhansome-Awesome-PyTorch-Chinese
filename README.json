@@ -45,7 +45,7 @@
             "open_issues": 60,
             "owner": "zergtant",
             "repo": "pytorch-handbook",
-            "stars": 21740,
+            "stars": 21741,
             "topics": [
               "deep-learning",
               "machine-learning",
@@ -131,7 +131,7 @@
             "open_issues": 1351,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32203,
+            "stars": 32205,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -272,11 +272,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-16T11:38:11Z",
-            "open_issues": 1275,
+            "last_commit": "2026-11-17T11:34:48Z",
+            "open_issues": 1277,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 18012,
+            "stars": 18017,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -559,7 +559,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T10:50:27.054Z",
+    "last_updated": "2026-11-18T10:20:12.429Z",
     "original_repository_info": {
       "archived": false,
       "description": "【干货】史上最全的PyTorch学习资源汇总",
