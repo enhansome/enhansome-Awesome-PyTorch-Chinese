@@ -19,7 +19,7 @@
             "open_issues": 89,
             "owner": "yunjey",
             "repo": "pytorch-tutorial",
-            "stars": 32528,
+            "stars": 32529,
             "topics": [
               "deep-learning",
               "neural-networks",
@@ -131,7 +131,7 @@
             "open_issues": 1351,
             "owner": "facebookresearch",
             "repo": "fairseq",
-            "stars": 32204,
+            "stars": 32205,
             "topics": [
               "artificial-intelligence",
               "python",
@@ -276,7 +276,7 @@
             "open_issues": 1263,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 18027,
+            "stars": 18030,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -559,7 +559,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T12:38:00.382Z",
+    "last_updated": "2026-11-25T11:28:06.694Z",
     "original_repository_info": {
       "archived": false,
       "description": "【干货】史上最全的PyTorch学习资源汇总",
